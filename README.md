@@ -34,6 +34,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamiul-Lipu&show_icons=true&theme=gruvbox)
+![Shamiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamiul-Lipu&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shamiul-Lipu&theme=gruvbox&border_radius=4.5)
