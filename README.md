@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### 📊 Stats
 
-![Most used Lnaguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamiul-Lipu&size_weight=0.5&count_weight=0.5&theme=gruvbox&border_radius=4.5&layout=donut-vertical)
+![Most used Lnaguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamiul-Lipu&size_weight=0.5&count_weight=0.5&theme=gruvbox&border_radius=4.5&layout=compact)
 
 ![Shamiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamiul-Lipu&show_icons=true&theme=gruvbox)
 
