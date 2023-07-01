@@ -78,3 +78,6 @@
 ![Shamiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamiul-Lipu&show_icons=true&theme=gruvbox&rank_icon=github)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shamiul-Lipu&theme=gruvbox&border_radius=4.5)
+
+
+<!--START_SECTION:activity-->
