@@ -64,6 +64,7 @@ src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br/>
 <br/>
+<hr/>
 
 ---
 
