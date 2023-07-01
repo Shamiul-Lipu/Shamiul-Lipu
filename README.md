@@ -63,7 +63,7 @@ src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/
 <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png?size=48" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br/>
-
+---
 
 ## 🔗 Links
 
