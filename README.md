@@ -66,9 +66,7 @@ src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/
 <br/>
 <hr/>
 
----
-
-## 🔗 Links
+### 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://shamiul-islam.web.app/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1l7suRmmzdduuCdA9KuFf1rbcIrMn6bEW?usp=drive_link)
