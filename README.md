@@ -1,6 +1,7 @@
-## Hi I'm Shamiul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi I'm Shamiul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, an aspiring Fullstack developer with a vision to create seamless, user-centric applications that blend cutting-edge technology with intuitive design. In this AI era, I aim to harness the power of artificial intelligence to build intelligent, adaptive software solutions that enhance user experiences, streamline processes, and push the boundaries of what's possible in the digital world.
+
 **`Full Stack Developer`**
-![](https://i.ibb.co/MGkwjmg/Screenshot-2.png)
+![](https://i.ibb.co/FX7w2kw/gitcover1.png)
 <!-- <p align="center"><img src="https://media4.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/></p> -->
 
 
