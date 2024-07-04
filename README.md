@@ -1,8 +1,20 @@
-## Hi I'm Shamiul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, an aspiring Fullstack developer with a vision to create seamless, user-centric applications that blend cutting-edge technology with intuitive design. In this AI era, I aim to harness the power of artificial intelligence to build intelligent, adaptive software solutions that enhance user experiences, streamline processes, and push the boundaries of what's possible in the digital world.
 
-**`Full Stack Developer`**
+
+**`An Aspiring Full Stack Developer`**
 ![](https://i.ibb.co/FX7w2kw/gitcover1.png)
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> **`Hi I'm Shamiul, An aspiring Fullstack developer`** with a vision to create seamless, user-centric applications that blend cutting-edge technology with intuitive design. In this AI era, I aim to harness the power of artificial intelligence to build intelligent, adaptive software solutions that enhance user experiences, streamline processes, and push the boundaries of what's possible in the digital world.
 <!-- <p align="center"><img src="https://media4.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/></p> -->
+
+
+### 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://shamiul-islam.web.app/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1l7suRmmzdduuCdA9KuFf1rbcIrMn6bEW?usp=drive_link)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shamiul-islam-lipu-7033a7135/)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/shamiul)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Shamiul-Lipu)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shamiullipu@gmail.com)
+
 
 
 ---
@@ -58,17 +70,6 @@
 <!--<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />-->
 
 <hr/>
-
-### 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://shamiul-islam.web.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1l7suRmmzdduuCdA9KuFf1rbcIrMn6bEW?usp=drive_link)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shamiul-islam-lipu-7033a7135/)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/shamiul)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Shamiul-Lipu)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shamiullipu@gmail.com)
-
-
 
 
 #
