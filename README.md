@@ -1,8 +1,12 @@
+### Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">  
 
-
-**`An Aspiring Full Stack Developer`**
 ![](https://i.ibb.co/FX7w2kw/gitcover1.png)
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> **`Hi I'm Shamiul, An aspiring Fullstack developer`** with a vision to create seamless, user-centric applications that blend cutting-edge technology with intuitive design. In this AI era, I aim to harness the power of artificial intelligence to build intelligent, adaptive software solutions that enhance user experiences, streamline processes, and push the boundaries of what's possible in the digital world.
+
+### 🚀 About Me
+
+**`I'm Shamiul, An aspiring Fullstack developer`** with a vision to create seamless, user-centric applications that blend cutting-edge technology with intuitive design. In this AI era, I aim to harness the power of artificial intelligence to build intelligent, adaptive software solutions that enhance user experiences, streamline processes and push the boundaries of what's possible in the digital world.
+
+
 <!-- <p align="center"><img src="https://media4.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/></p> -->
 
 
@@ -16,6 +20,18 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shamiullipu@gmail.com)
 
 
+<!-- ### 👀 Current Overview
+
+<!-- - 🔭 I’m currently - working on **Vexa Web App**  -->
+
+<!-- - 🌱 I’m currently - learning **DevOps**  -->
+
+<!-- - 💬 Ask me about - **Android , MEARN**  -->
+
+<!-- - 📫 How to reach me [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shamiullipu@gmail.com)  -->
+
+<!-- - ⚡ Fun fact - **I am not Funny** -->
+
 
 ---
 
@@ -27,7 +43,7 @@
 
 <!--![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)-->
 
-### Front-End Development
+### Front-End 
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
@@ -40,11 +56,15 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![REACT QUERY](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
 
-### Backend Development
+### Backend 
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Backend as a Service 
 
@@ -52,19 +72,17 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Tools
+
+**`Technologies, Libraries, Tools Worth Mentioning`**
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-### 
-**`Technologies worth mentioning`**
-
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![REACT QUERY](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
 ![STRIPE](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![AXIOS](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
 
 
 <!--<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />-->
@@ -72,7 +90,6 @@
 <hr/>
 
 
-#
 
 ### 📊 Stats
 
